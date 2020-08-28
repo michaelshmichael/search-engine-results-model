@@ -130,3 +130,31 @@ input {
     margin-right: 15px;
     color: rgb(151, 151, 151)
 }
+
+.hits {
+    margin-left: 200px;
+    font-size: 14px;
+    color: rgb(151, 151, 151)
+}
+
+.resultModel {
+    margin-left: 200px;
+    margin-top: 25px;
+    width: 800px;
+}
+
+.resultURL {
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+.resultLink {
+    font-size: 1.3em;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
+
+.resultSummary {
+    line-height: 1.4;
+    font-size: 15px;
+}
